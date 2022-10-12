@@ -1,4 +1,4 @@
-# jokester
+# Random Jokes
 
 > A Vue.js project
 
